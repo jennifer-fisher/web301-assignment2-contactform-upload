@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+
+.label{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.25rem;
+    color: purple;
+    padding-right: 10px;
+}
